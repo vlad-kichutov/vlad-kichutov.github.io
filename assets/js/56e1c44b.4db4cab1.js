@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjava_lessons=self.webpackChunkjava_lessons||[]).push([[3319],{3827:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/java-lessons/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
