@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjava_lessons=self.webpackChunkjava_lessons||[]).push([[2634],{9179:(s,e,n)=>{n.r(e),n.d(e,{default:()=>c});var o=n(6540),a=n(6347),t=n(4848);function c(){return(0,o.useEffect)((()=>{window.location.replace("/docs/intro")}),[]),(0,t.jsx)(a.rd,{to:"/docs/intro"})}}}]);
